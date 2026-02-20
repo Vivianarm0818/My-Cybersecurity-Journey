@@ -27,6 +27,8 @@ Conectividad: Se validó el acceso exitoso al servidor externo skillsforall.srv 
 
 Evidencia
 
+<img width="1437" height="774" alt="Screenshot 2026-02-20 at 5 33 56 PM" src="https://github.com/user-attachments/assets/53e9fb26-c0ff-48b0-827c-ca3a187fc4be" />
+
 
 *En este laboratorio aprendí la importancia de cambiar las credenciales por def$
 
